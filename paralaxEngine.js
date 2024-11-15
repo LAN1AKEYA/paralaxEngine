@@ -132,7 +132,7 @@ function developeMode(depth, lineColor, ghostColor) {
 
 const currentSrc = document.currentScript.src;
 
-fetch(new URL('../paralaxConfig.json', currentSrc))
+fetch(new URL('paralaxConfig.json', currentSrc))
 .then(response => {
     return response.json();
 })
