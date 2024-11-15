@@ -1,18 +1,10 @@
 {
     "run": true,
     "elements": [
-        {
-            "id": "card",
-            "ratio": 120,
-            "mode": "background"
-        },
-        {
-            "id": "image",
-            "ratio": 80
-        }
+        
     ],
     "developeMode": {
-        "run": true,
+        "run": false,
         "lineWidth": 4,
         "lineColor": "",
         "ghostColor": "",
