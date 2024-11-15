@@ -12,9 +12,9 @@
 
 <b>Например:</b>
 
-        <section class="myElement-paralax-parent">
-            <div id="myElement"></div>
-        </section>
+    <section class="myElement-paralax-parent">
+        <div id="myElement"></div>
+    </section>
 
 ### Настройка конфигурационного файла
 
